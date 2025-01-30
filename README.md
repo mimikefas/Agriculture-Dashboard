@@ -51,7 +51,7 @@ There was no missing values and blank spaces meaning the data is clean and fit f
 - Improve soil health by using organic products such as manure which is very cheap and easy to get, it will help reduce cost.
 - Using soil rotation helps improves fertility of soil, erosion and optimize resource usage.
 # Conclusion:
-If all these are put to practice there will be productive revenue in the Agricultural sector and it will bring about an increase increase in economic growth, reduction in unemployement rate, export revene,food security and source of raw materials.
+If all these are put to practice there will be productive revenue in the Agricultural sector and it will bring about an increase increase in economic growth, reduction in unemployement rate, export revenue,food security and source of raw materials.
 
 
 
