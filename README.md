@@ -1,3 +1,6 @@
+Dashboard Link : https://app.powerbi.com/links/OEP14mKHo1?ctid=10836287-602e-42db-9c46-f4184a33234b&pbi_source=linkShare
+
+
 # Agriculture-Dashboard
 An Agricultural Sector wants to get insights and recommendations to improve their crop products and by this analysis it will be able to make decisions on what is economically best for the sector and productive revenue after every harvest.It includes inputs such as soil type, pesticide used, water usage,fertilizer used, farm area and season, the data was collected from different sources making it valuable for agricultural research, analysis and decision making. 
 # Features:
