@@ -16,7 +16,7 @@ An Agricultural Sector wants to get insights and recommendations to improve thei
 # Use cases:
 - Identifying optimal crop type for specific season
 - Impact of soil type for sustainable farming
-- Analysing irrigation type for minimal wastageand water usage efficiency
+- Analysing irrigation type for minimal wastage and water usage efficiency
 - Analysing pesticide and fertilizer for soil health and environmental impact.
 - This dataset was gotten from kaggle and it consist of 50 rows and 10 columns.
 I used power BI to visualize and analyse the dataset to be able to get a clear insight where the sector is lacking. In the process of analysing and visualization i uploaded the dataset on Power BI through csv format with clear columns and rows to assist in understanding the variable.
